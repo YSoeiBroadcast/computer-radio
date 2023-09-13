@@ -10,7 +10,7 @@ actors:
 author: alice
 description: Example description
 description_long: Example long description
-email: info@example.com
+email: r04-221080@soei.ed.jp
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: freecom
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords:computer,PC,パソコン,雑談,解説
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: 雑談!! コンピューター
 url: http://example.com
