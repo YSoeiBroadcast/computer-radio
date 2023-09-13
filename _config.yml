@@ -21,8 +21,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: freecom
-itunes_podcast_url:
-keywords:computer,PC,パソコン,雑談,解説
+itunes_podcast_url: keywords:computer,PC,パソコン,雑談,解説
 language: ja
 markdown: kramdown
 permalink: /episode/:title
